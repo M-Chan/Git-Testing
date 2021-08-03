@@ -1,2 +1,2 @@
 # Git-Testing
-Learning how to use Git from CMD
+Learning how to use Git and Git Bash
